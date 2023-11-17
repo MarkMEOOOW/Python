@@ -1,0 +1,13 @@
+Number: 1
+Firstname Lastname: John Smith
+Date of birth: 11/13/1990
+Email: john@gmail.com
+Mobile number: +7(701)-777-77-77
+IBAN: KZ12345678901234567890
+
+Number: 2
+Firstname Lastname: None
+Date of birth: 11/02/1999
+Email: None
+Mobile number: +7(701)-777-77-77
+IBAN: KZ12345678901234567890
